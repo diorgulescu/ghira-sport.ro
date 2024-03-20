@@ -1,0 +1,13 @@
+id = "diorgulescu"
+
+[email]
+username = "dragos"
+host = "iorgos.net"
+
+[name]
+display = "Dragoș Iorgulescu"
+
+[social]
+email = ""
+facebook = ""
+mastodon = ""
