@@ -52,7 +52,7 @@ expiryDate = ["expiryDate"]
 
 [params.author]
   name = "ghira-sport.ro"
-  about = "CHANGE SITE AUTHOR ABOUT"
+  about = "dragos-iorgulescu"
 
 [blackfriday]
   # hrefTargetBlank = true
